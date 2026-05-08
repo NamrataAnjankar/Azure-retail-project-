@@ -1,1 +1,2 @@
-# Azure-retail-project-
+# Azure-project-
+ This project demonstrates a complete end-to-end implementation of a real-world data engineering workflow, focusing on data extraction, transformation, and loading (ETL). The solution showcases how raw data is ingested from source systems, processed using efficient transformation techniques, and loaded into a structured format for analysis and reporting. It highlights the use of modern tools and technologies to build scalable, reliable, and optimized data pipelines. The project emphasizes best practices such as data cleaning, performance optimization, and modular pipeline design, making it suitable for beginners and aspiring data engineers to understand practical ETL concepts and cloud-based data processing workflows.
