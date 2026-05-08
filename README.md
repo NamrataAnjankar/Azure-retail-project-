@@ -1,2 +1,26 @@
-# Azure-project-
- This project demonstrates a complete end-to-end implementation of a real-world data engineering workflow, focusing on data extraction, transformation, and loading (ETL). The solution showcases how raw data is ingested from source systems, processed using efficient transformation techniques, and loaded into a structured format for analysis and reporting. It highlights the use of modern tools and technologies to build scalable, reliable, and optimized data pipelines. The project emphasizes best practices such as data cleaning, performance optimization, and modular pipeline design, making it suitable for beginners and aspiring data engineers to understand practical ETL concepts and cloud-based data processing workflows.
+# 🚀 Azure Retail Data Engineering Project (PySpark)
+
+## 📌 Project Overview
+This project demonstrates an end-to-end ETL pipeline using PySpark. It processes retail data from raw CSV into optimized Parquet format for analytics.
+
+## 🛠️ Tech Stack
+- PySpark
+- Python
+- Azure Data Factory (Concept)
+- Azure Databricks (Concept)
+
+## 🏗️ Architecture
+CSV → Data Lake → PySpark → Parquet Output
+
+## 🔄 ETL Workflow
+- Extract: Read CSV using Spark
+- Transform: Clean, filter, process data
+- Load: Store in Parquet format
+
+## ▶️ How to Run
+pip install -r requirements.txt  
+python src/load.py  
+
+## 📊 Output
+Processed data stored in Parquet format
+
